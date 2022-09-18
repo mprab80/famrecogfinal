@@ -1,0 +1,41 @@
+body{
+    background-color: palevioletred;
+}
+#title{
+    color: white;
+}
+#note{
+    color: white;
+}
+#mom{
+    color:white;
+    background-color: blue;
+}
+#dad{
+    color:white;
+    background-color: blue;
+}
+#sis{
+    color:white;
+    background-color: blue;
+}
+#me{
+    color:white;
+    background-color: blue;
+}
+#webcamview{
+    color: white;
+}
+#camera{
+    width: 300px;
+    height: 300px;
+    border:3px solid grey;
+}
+#result{
+    width: 300px;
+    height: 300px;
+    border:3px solid grey;
+}
+#resultlabel{
+    color: white;
+}
